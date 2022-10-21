@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asterix014&show_icons=true&locale=en&theme=tokyonight" alt="asterix014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asterix014&&theme=radical" alt="asterix014" /></p>
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=asterix014&theme=redical)](https://github.com/asterix014)
