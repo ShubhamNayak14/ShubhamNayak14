@@ -1,9 +1,9 @@
-![MasterHead](Aminated Web Developer WorksAnimated Web Developer Workspace Created Entirely with CSS - BestAgencies.com)
+![MasterHead](backside.gif)
 <h1 align="center">Hi 👋, I'm Shubham Kumar Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="laptopboy.gif">
+<img align="right" alt="Coding" width="400" src="pic.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamNayak14&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamNayak14" /> </p>
