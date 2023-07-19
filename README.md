@@ -1,4 +1,4 @@
-![MasterHead](banner.gif)
+![MasterHead](Aminated Web Developer WorksAnimated Web Developer Workspace Created Entirely with CSS - BestAgencies.com)
 <h1 align="center">Hi 👋, I'm Shubham Kumar Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
