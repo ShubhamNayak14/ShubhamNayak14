@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asterix014&&theme=radical" alt="asterix014" /></p>
 
-![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=asterix014&theme=react-dark&hide_border=true&area=true)
+![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=ShubhamNayak14&theme=react-dark&hide_border=true&area=true)
