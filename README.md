@@ -1,5 +1,5 @@
 ![MasterHead](banner.gif)
-<h1 align="center">Hi 👋, I'm Shubham Nayak</h1>
+<h1 align="center">Hi 👋, I'm Shubham Kumar Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
