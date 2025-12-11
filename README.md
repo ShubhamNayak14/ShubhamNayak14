@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Nayak</h1>
 <h3 align="center">A passionate Problem Solver & UI/UX Designer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG42bmZ0endxdXRzdnptbzEyMDFuc3A0M3l6NW96c216djR3cTJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG42bmZ0endxdXRzdnptbzEyMDFuc3A0M3l6NW96c216djR3cTJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamNayak14&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamNayak14" /> </p>
 
@@ -32,4 +32,5 @@
 
 
 ![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=ShubhamNayak14&theme=react-dark&hide_border=true&area=true)
+
 
