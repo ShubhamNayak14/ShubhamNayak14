@@ -1,9 +1,9 @@
-![MasterHead](backside.gif)
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU0NjU5NzUsIm5iZiI6MTc2NTQ2NTY3NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjExVDE1MDc1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4M2U3ZDNkYzZlYjJlNjgzZWUyNDFjOWRkMzEwODNlMmZiYzIzM2ZlZDJmMTU0Zjg1MDkwMzQ5MjViMGMzM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-2URFgAsgk-WIN2PnWm32YsHoP6Y_avtRBmryjkXS0A)
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Nayak</h1>
-<h3 align="center">A passionate frontend developer & UI/UX Designer from India</h3>
+<h3 align="center">A passionate Problem Solver & UI/UX Designer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="pic.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG42bmZ0endxdXRzdnptbzEyMDFuc3A0M3l6NW96c216djR3cTJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamNayak14&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamNayak14" /> </p>
 
@@ -28,13 +28,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/> </a> </p>
-<!-- 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamNayak14&show_icons=true&locale=en&layout=compact" alt="ShubhamNayak14" />
-</p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamNayak14&show_icons=true&locale=en&theme=tokyonight" alt="ShubhamNayak14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamNayak14&&theme=radical" alt="ShubhamNayak14" /></p>
 
 ![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=ShubhamNayak14&theme=react-dark&hide_border=true&area=true)
+
